@@ -1,0 +1,17 @@
+Como aprender a programar en 4 pasos
+1. Selecciona el lenguaje que desees aprender
+2. Mira tutoriales en youtube 
+3. Que te rompan el corazón
+   Esto hará que tu unica meta sea aprender a como del lugar a programar toda la concentración 
+   la enfocarás en en lo que estás estudiando
+   Práctica con ejercicios día tras día y si se presenta algún bug recuerda que tu ex ahora está con otro
+   esto hará que tu bug sea vea como problema menor y así lograrás solucionarlo.
+   Planea tus horarios ponte nuevos retos para aprender a programar e intenta olvidarla no pongas 
+   como nombre de variables las iniciales de tu ex eso es de losers
+   Verás como tu ex se pasea con otro de la mano, tal vez más alto, más guapo pero tranquilo el no 
+   sabe programar asi que ve a tu casa crea nuevos programas y codifica hasta olvidarte de todo.
+   Un día sin darte cuenta despertarás sabiendo programar y conocerás una linda chica programadora 
+4. Si tu codigo funciona no lo toques.
+
+
+   
